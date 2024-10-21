@@ -34,6 +34,7 @@ This is a simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. The game
 
 ##Live Demo
 You can play the game live here.
+https://royvijay17.github.io/ticTakToe/
 
 
 
